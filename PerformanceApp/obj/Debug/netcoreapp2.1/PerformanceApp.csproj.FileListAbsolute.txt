@@ -1,0 +1,12 @@
+C:\Users\c-rajesh.thomas\source\repos\PerformanceApp\PerformanceApp\bin\Debug\netcoreapp2.1\PerformanceApp.deps.json
+C:\Users\c-rajesh.thomas\source\repos\PerformanceApp\PerformanceApp\bin\Debug\netcoreapp2.1\PerformanceApp.runtimeconfig.json
+C:\Users\c-rajesh.thomas\source\repos\PerformanceApp\PerformanceApp\bin\Debug\netcoreapp2.1\PerformanceApp.runtimeconfig.dev.json
+C:\Users\c-rajesh.thomas\source\repos\PerformanceApp\PerformanceApp\bin\Debug\netcoreapp2.1\PerformanceApp.dll
+C:\Users\c-rajesh.thomas\source\repos\PerformanceApp\PerformanceApp\bin\Debug\netcoreapp2.1\PerformanceApp.pdb
+C:\Users\c-rajesh.thomas\source\repos\PerformanceApp\PerformanceApp\obj\Debug\netcoreapp2.1\PerformanceApp.csproj.CoreCompileInputs.cache
+C:\Users\c-rajesh.thomas\source\repos\PerformanceApp\PerformanceApp\obj\Debug\netcoreapp2.1\PerformanceApp.AssemblyInfoInputs.cache
+C:\Users\c-rajesh.thomas\source\repos\PerformanceApp\PerformanceApp\obj\Debug\netcoreapp2.1\PerformanceApp.AssemblyInfo.cs
+C:\Users\c-rajesh.thomas\source\repos\PerformanceApp\PerformanceApp\obj\Debug\netcoreapp2.1\PerformanceApp.dll
+C:\Users\c-rajesh.thomas\source\repos\PerformanceApp\PerformanceApp\obj\Debug\netcoreapp2.1\PerformanceApp.pdb
+C:\Users\c-rajesh.thomas\source\repos\PerformanceApp\PerformanceApp\bin\Debug\netcoreapp2.1\PerformanceApp.dll.config
+C:\Users\c-rajesh.thomas\source\repos\PerformanceApp\PerformanceApp\obj\Debug\netcoreapp2.1\PerformanceApp.csprojAssemblyReference.cache
